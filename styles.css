@@ -1,0 +1,16 @@
+#heading {
+    text-align: center;
+}
+
+.new-row{
+    justify-content: space-around;
+    display: flex; 
+}
+
+.names {
+    display: flex;
+    justify-content: space-around;
+    background: #0099ff;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
